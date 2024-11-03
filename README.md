@@ -1,5 +1,5 @@
 <!--ver 0.1.0 -->
-##Name's Tomi 🙋‍♂️
+## Name's Tomi 🙋‍♂️
 `Pronouns: he/him`
 
 - 🔭 I’m currently working on my dev base <br/>
