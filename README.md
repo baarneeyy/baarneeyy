@@ -2,10 +2,9 @@
 ## Name's Tomi 🙋‍♂️
 `Pronouns: he/him`
 
-- 🛠️ working on my dev base for starters <br/>
-- 🌱 learning Svelte and Gleam atm<br/>
-- 🍻  waiting to collaborate on AnyType <br/>
-- 📫 How to reach me: [mail](mailto:tom.vseteckaa@gmail.com") <br/>
+- 💀 trying to survive Agile<br/>
+- 🌱 learning Svelte atm<br/>
+- 📫 How to reach me: [mail](mailto:dev@vsetecka.sk") <br/>
 
 *more coming soon...*
 <!--
