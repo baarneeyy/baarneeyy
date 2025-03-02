@@ -3,7 +3,7 @@
 `Pronouns: he/him`
 
 - 💀 trying to survive Agile<br/>
-- 🌱 learning Svelte atm<br/>
+- 🎓 learning Svelte atm<br/>
 - 📫 How to reach me: [mail](mailto:dev@vsetecka.sk") <br/>
 
 *more coming soon...*
