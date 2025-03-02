@@ -4,7 +4,7 @@
 
 - 💀 trying to survive Agile<br/>
 - 🎓 learning Svelte atm<br/>
-- 📫 How to reach me: [mail](mailto:dev@vsetecka.sk") <br/>
+- 📫 How to reach me: [mail](mailto:dev@vsetecka.sk) || [signal](https://signal.me/#eu/YIruMSMUzADdUntEhpWwtpLtaR5QZC2jE1OfIxmbLTH0VsQ8AxdLWJIQXW1-urbr) <br/>
 
 *more coming soon...*
 <!--
